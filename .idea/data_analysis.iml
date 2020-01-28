@@ -2,6 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Data_aggregation" />
       <excludeFolder url="file://$MODULE_DIR$/Data_preprocessing" />
       <excludeFolder url="file://$MODULE_DIR$/Pandas" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
