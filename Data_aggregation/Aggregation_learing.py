@@ -326,6 +326,3 @@ print(data_group.apply(plus_ten))
 # 9    109     75     30
 
 
-
-
-

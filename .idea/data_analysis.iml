@@ -4,7 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Data_aggregation" />
       <excludeFolder url="file://$MODULE_DIR$/Data_preprocessing" />
+      <excludeFolder url="file://$MODULE_DIR$/Data_visualization" />
       <excludeFolder url="file://$MODULE_DIR$/Pandas" />
+      <excludeFolder url="file://$MODULE_DIR$/Wuhan_virus" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
